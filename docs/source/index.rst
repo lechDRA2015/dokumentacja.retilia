@@ -17,7 +17,6 @@ Spis treści:
    _portal_log/index
    _portal_conf/index
    _tablet/index
-   _tablet_conf/index
    _interfejs/index
    _czyn_pos/index
    
