@@ -24,12 +24,7 @@ Spis treści:
 
 
 
-Indeksy
-======================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
 
