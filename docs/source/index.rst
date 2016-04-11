@@ -24,6 +24,7 @@ Spis treści:
    
 
 
+<<<<<<< HEAD
 Indeksy
 ======================
 
@@ -32,6 +33,8 @@ Indeksy
 * :ref:`search`
 
 
+=======
+>>>>>>> 9504b3dba599287ba460fa4f2e4a33f567ad2b01
 
 
 
