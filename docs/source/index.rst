@@ -22,7 +22,7 @@ Spis treści:
    
    
 
-
+do dupy z taką robotą
 
 
 
