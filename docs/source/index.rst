@@ -25,9 +25,5 @@ Spis treści:
 
 
 
-Indeks
-==================
-
-* :ref:`genindex`
 
 
