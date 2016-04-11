@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
- Dokumentacja systemu MobilePOS (wersja robocza)
+ Dokumentacja systemu MobilePOS 
 ==================================================================
 
 Spis treści:
@@ -13,13 +13,13 @@ Spis treści:
    :numbered:
 
    Retilia <http://retilia.pl/>
-   intro/index
-   portal_log/index
-   portal_conf/index
-   tablet/index
-   tablet_conf/index
-   interfejs/index
-   czyn_pos/index
+   _intro/index
+   _portal_log/index
+   _portal_conf/index
+   _tablet/index
+   _tablet_conf/index
+   _interfejs/index
+   _czyn_pos/index
    
    
 
